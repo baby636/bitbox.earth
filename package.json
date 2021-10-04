@@ -23,7 +23,7 @@
     "react-syntax-highlighter": "^7.0.0",
     "sass-loader": "^6.0.6",
     "satoshi-bitcoin": "^1.0.4",
-    "style-loader": "^0.20.1",
+    "style-loader": "^3.2.1",
     "underscore": "^1.8.3",
     "webpack-dev-server": "^2.11.1"
   },
