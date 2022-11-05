@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "babel-core": "^6.26.0",
-    "babel-loader": "^7.1.2",
+    "babel-loader": "^8.2.4",
     "babel-preset-react": "^6.24.1",
     "bchaddrjs": "^0.1.4",
     "bip39": "^2.5.0",
@@ -18,12 +18,12 @@
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
     "react-router-dom": "^4.2.2",
-    "react-scripts": "1.1.0",
+    "react-scripts": "5.0.0",
     "react-slick": "^0.20.0",
     "react-syntax-highlighter": "^7.0.0",
-    "sass-loader": "^6.0.6",
+    "sass-loader": "^9.0.0",
     "satoshi-bitcoin": "^1.0.4",
-    "style-loader": "^0.20.1",
+    "style-loader": "^1.1.4",
     "underscore": "^1.8.3",
     "webpack-dev-server": "^2.11.1"
   },
@@ -38,11 +38,11 @@
     "babel-cli": "^6.26.0",
     "babel-preset-es2015": "^6.24.1",
     "babel-preset-flow": "^6.23.0",
-    "copy-webpack-plugin": "^4.5.0",
-    "css-loader": "^0.28.9",
+    "copy-webpack-plugin": "^6.0.0",
+    "css-loader": "^4.0.0",
     "flow-bin": "^0.64.0",
-    "html-webpack-plugin": "^2.30.1",
+    "html-webpack-plugin": "^5.0.0",
     "uglifyjs-webpack-plugin": "^1.1.8",
-    "webpack": "^3.10.0"
+    "webpack": "^5.0.0"
   }
 }
