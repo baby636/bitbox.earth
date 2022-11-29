@@ -18,7 +18,7 @@
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
     "react-router-dom": "^4.2.2",
-    "react-scripts": "1.1.0",
+    "react-scripts": "4.0.0",
     "react-slick": "^0.20.0",
     "react-syntax-highlighter": "^7.0.0",
     "sass-loader": "^6.0.6",
@@ -41,7 +41,7 @@
     "copy-webpack-plugin": "^4.5.0",
     "css-loader": "^0.28.9",
     "flow-bin": "^0.64.0",
-    "html-webpack-plugin": "^2.30.1",
+    "html-webpack-plugin": "^4.0.0",
     "uglifyjs-webpack-plugin": "^1.1.8",
     "webpack": "^3.10.0"
   }
